@@ -10,3 +10,5 @@ closed. WAY9 can also deploy and manage that agent on Linux and Windows machines
 jobs to such a remote agent is not available yet. The library, run history, schedules and settings
 live in one store: a local SQLite file, or a central PostgreSQL database shared by the GUI and all
 agents.
+
+Further informations about the status of the project can be found at https://way9.at/de/solutions/way9
